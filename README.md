@@ -2,7 +2,8 @@
 
 A professional currency conversion application with real-time exchange rates built with React and Tailwind CSS.
 
-![App Screenshot](./assets/screenshot.png)
+## Screenshot
+![Currency Converter App Screenshot](https://github.com/Mzs786/Currency-Convertor/raw/main/assets/Screenshot.png)
 
 ## Features
 
