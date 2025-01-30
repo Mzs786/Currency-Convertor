@@ -16,7 +16,6 @@ A professional currency conversion application with real-time exchange rates bui
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/currency-converter.git
-   cd currency-converterInstall dependencies
 
 2. **Install dependencies**
    ```bash
