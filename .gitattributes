@@ -1,0 +1,16 @@
+# Auto-detect text files and normalize to LF
+* text=auto
+
+# Force specific file types to LF
+*.js text eol=lf
+*.mjs text eol=lf
+*.json text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.md text eol=lf
+*.jsx text eol=lf
+
+# Binary files should remain untouched
+*.png binary
+*.jpg binary
+*.ttf binary
