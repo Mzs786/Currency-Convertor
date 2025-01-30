@@ -16,4 +16,19 @@ A professional currency conversion application with real-time exchange rates bui
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/currency-converter.git
-   cd currency-converter
+   cd currency-converterInstall dependencies
+
+2. **Install dependencies**
+   ```bash
+   npm install
+
+3. **Set up environment variables**
+   Create a .env file in the root directory with:
+   ```bash
+   VITE_EXCHANGE_API_KEY=your_api_key_here
+   
+4. **Run the application**
+   ```bash
+   npm run dev
+   
+   
